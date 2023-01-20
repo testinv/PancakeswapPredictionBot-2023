@@ -143,4 +143,4 @@ Thank's to Empaticgame! spend: 0,8 BNB ❤️
 ![Hater's](https://cdn.arstechnica.net/wp-content/uploads/2019/03/reddit-games-silence.png)
   
   
-**We know about a few Reddit haters. We cannot rule out whether these are bots or unsuspecting would-be coders. The AssaEmpire Team will contact Github with the problems so that this no longer occurs. Thank you for reading and have fun :)**
+**We know about a few Reddit haters. We cannot rule out whether these are bots or unsuspecting would-be coders. The BitCoinCompany Team will contact Github with the problems so that this no longer occurs. Thank you for reading and have fun :)**
