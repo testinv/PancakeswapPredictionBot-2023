@@ -53,7 +53,7 @@ https://nodejs.org/en/download/
 
 Then run command prompt or powershell
 
-- Type ``cd with the cloned sourvce`` (replace with your cloned/downloaded bot folder)
+- Type ``cd with PancakeswapPredictionBot-2023`` (replace with your cloned/downloaded bot folder)
 - Type ``npm i``
 
 ## 🗺️ Usage  
