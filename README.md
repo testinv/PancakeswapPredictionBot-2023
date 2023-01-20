@@ -30,10 +30,10 @@ We know some bugs (Windows use) (but it workds
 
 ![Our Team](https://i.ibb.co/8jR3Fcv/logo.png)
 
-- AssaEmpire (Owner/Programmer)
-- SavannahCat (Github, Reddit, Youtube and Twitter Support)
-- XBronx (Programmer)
-- K4L (Youtube Supporter)
+- Thomas (Owner/Programmer)
+- Rayan (Github, Reddit, Youtube and Twitter Support)
+- Frank (Programmer)
+- Tyler (Youtube Supporter)
 
 Thank u all <3
              
