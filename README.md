@@ -137,7 +137,7 @@ Thank's to Empaticgame! spend: 0,8 BNB ❤️
 ***bitcoincompany123@gmail.com***
 
 
-
+ 
 ## Reddit Hater's 
  
 ![Hater's](https://cdn.arstechnica.net/wp-content/uploads/2019/03/reddit-games-silence.png)
