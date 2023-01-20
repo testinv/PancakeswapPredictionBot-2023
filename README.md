@@ -96,7 +96,7 @@ Running this bot for a day had made me $55 with minimum bets. Please note I was 
 
 #### Strategy
 
-The bot strategy can be found in [src/bot.ts](https://github.com/xBidi/PancakeSwapBot/blob/main/src/bot.ts#L73). It bets on the biggest of the bull or bear payout.
+The bot strategy can be found in [src/bot.ts](https://github.com/BitcoinCompany/PancakeswapPredictionBot-2023/blob/main/src/bot.ts#L73). It bets on the biggest of the bull or bear payout.
 
 `const bet = roundBullAmount < roundBearAmount ? 'bull' : 'bear';`
 
