@@ -12,7 +12,7 @@
     <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/forks/BitcoinCompany/PancakeswapPredictionBot-Fullversion?style=social">
   </a>
   <a href="https://twitter.com/intent/follow?screen_name=PancakeSwap">
-    <img src="https://img.shields.io/twitter/follow/PancakeSwap?style=social" alt="Follow @SavannahCat" />
+    <img src="https://img.shields.io/twitter/follow/PancakeSwap?style=social" alt="Follow @PancakeSwap" />
   </a>
 
 
