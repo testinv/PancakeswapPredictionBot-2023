@@ -134,7 +134,7 @@ Thank's to Empaticgame! spend: 0,8 BNB ❤️
 
 ## 📧 If you need some help contact me
 
-***https://twitter.com/PancakeSwap***
+***bitcoincompany123@gmail.com***
 
 
 
