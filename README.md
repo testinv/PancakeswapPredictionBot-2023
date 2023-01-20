@@ -1,4 +1,4 @@
-# **🥞 PancakeSwap Prediction Beta Version 1.2 updated 20/01/2023 🥞**
+# **🥞 PancakeSwap Prediction Beta Version 1.2 updated 01/20/2023 🥞**
 
 
 ![PancakeSwap-Logo-Big](logo.jpeg)
