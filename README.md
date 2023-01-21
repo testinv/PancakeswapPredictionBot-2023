@@ -59,7 +59,7 @@ Then run command prompt or powershell
 ## 🗺️ Usage  
 
 1. Copy/rename **.env_example** to **.env** ``cp .env_example .env``
-2. Provide your private key to .env PRIVATE_KEY field.
+2. Provide your private key to **.env** PRIVATE_KEY field.
 3. Install dependencies `npm i` or `yarn` if not already completed above.
 4. Start the bot using `npm run start -- --with` or `yarn start -- --with`
 5. Enjoy!
@@ -125,8 +125,6 @@ BOT is free-to-use, but you are welcome to appreciate my work ☺️
 ETH - 0xDd491d4648C8C7Fa824B776b9CE5eaA0cF7a1Fbd
 
 BNB - 0xDd491d4648C8C7Fa824B776b9CE5eaA0cF7a1Fbd  
-  
-Thank's to Empaticgame! spend: 0,8 BNB ❤️
 
 
 
