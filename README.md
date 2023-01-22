@@ -13,7 +13,7 @@
   </a>
   <a href="https://twitter.com/intent/follow?screen_name=PancakeSwap">
     <img src="https://img.shields.io/twitter/follow/PancakeSwap?style=social" alt="Follow @PancakeSwap" />
-  </a>
+  </a> 
 
 
 This bot wins the majority of rounds on PancakeSwap based.
