@@ -24,7 +24,7 @@ This bot survived the beta and is now in the full version. Feel Free to contact 
 our update is in planning. there's a lot coming your way.
 We know some bugs (Windows use) (but it workds
 
-
+ 
 
 ## *Our Team*
 
