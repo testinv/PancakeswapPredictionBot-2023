@@ -25,7 +25,7 @@ our update is in planning. there's a lot coming your way.
 We know some bugs (Windows use) (but it workds
 
  
-
+ 
 ## *Our Team*
 
 ![Our Team](https://i.ibb.co/8jR3Fcv/logo.png)
