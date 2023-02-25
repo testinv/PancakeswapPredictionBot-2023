@@ -1,5 +1,5 @@
 # **🥞 PancakeSwap Prediction Version 1.2 updated 2023 🥞** 
-  
+ 
  
 ![PancakeSwap-Logo-Big](logo.jpeg)
 <a href="https://github.com/BitcoinCompany/PancakeswapPredictionBot-2023">
