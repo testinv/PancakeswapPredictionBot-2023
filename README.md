@@ -29,8 +29,6 @@ This bot survived the beta and is now in the full version. Feel Free to contact 
 - Rayan (Github, Reddit, Youtube and Twitter Support)
 - Frank (Programmer)
 - Tyler (Youtube Supporter)
-
-Thank u all <3
              
 
 ## 🦊 How to Export Private Key from MetaMask
