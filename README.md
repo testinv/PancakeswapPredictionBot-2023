@@ -59,9 +59,6 @@ Then run command prompt or powershell
 4. Start the bot using `npm run start -- --with` or `yarn start -- --with`
 5. Enjoy!
 
-## ⚠ Error ?
-If you encounter an error, please try `npm install`
-
 ### ✔️ Sample ``.ENV`` file
 ```
 # Your wallet private key. 
