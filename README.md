@@ -113,7 +113,7 @@ Any reference to an investment's past or potential performance is not, and shoul
 ## 💼 License
 MIT License
 
-## our thanks:
+## Our thanks:
 
 BOT is free-to-use, but you are welcome to appreciate my work ☺️
 
