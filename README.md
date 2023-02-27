@@ -8,9 +8,9 @@
    <a href="https://github.com/BitcoinCompany/PancakeswapPredictionBot-2023">
     <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/forks/BitcoinCompany/PancakeswapPredictionBot-2023?style=social">
   </a>
-  <a href="https://github.com/BitcoinCompany/PancakeswapPredictionBot-2023/releases">
+  <!---<a href="https://github.com/BitcoinCompany/PancakeswapPredictionBot-2023/releases">
     <img alt="GitHub all releases" src="https://img.shields.io/github/followers/BitcoinCompany?style=social">
-  </a>
+  </a>-->
   <a href="https://twitter.com/intent/follow?screen_name=PancakeSwap">
     <img src="https://img.shields.io/twitter/follow/PancakeSwap?style=social" alt="Follow @PancakeSwap" />
   </a> 
