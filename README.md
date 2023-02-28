@@ -87,7 +87,7 @@ Running this bot for a day had made me $55 with minimum bets. Please note I was 
 - Always account & allow room for error. Losing 3 sucks, but stopping it only prevents it from potentially winning the next 4 & bringing you to a profit. 
 - Majority of the runs with over 2k plays I have a standard 54-66% win rate depending on how well I monitor it & based on market conditions.
 
-#### Strategy
+#### Strategy 
 
 The bot strategy can be found in [src/bot.ts](https://github.com/BitcoinCompany/PancakeswapPredictionBot-2023/blob/main/src/bot.ts#L73). It bets on the biggest of the bull or bear payout.
 
