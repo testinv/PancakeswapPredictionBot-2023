@@ -1,25 +1,25 @@
 {
-  "name": "pancakeswap-prediction-winner",
-  "version": "2.2.0",
-  "description": "This bot wins almost every 5 minute BNB-USD option on PancakeSwap",
-  "author": "Egor Gavrilov",
-  "license": "MIT",
+  "name": "pancakeswap-prediction-smartbot",
+  "version": "1.0.0",
+  "description": "PancakeSwap Prediction Bot using live TradingView recomendations. ~70% Win rate",
+  "main": "bot.js",
   "scripts": {
-    "start": "ts-node ./src/index.ts",
-    "cg": "ts-node ./src/candle-genie.ts",
-    "test": "jest"
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "author": "Soracode",
+  "license": "ISC",
   "dependencies": {
-    "chalk": "^4.1.2",
-    "dotenv": "^10.0.0",
-    "ethers": "^5.6.0"
-  },
-  "devDependencies": {
-    "@types/jest": "^27.0.2",
-    "@types/node": "^16.9.2",
-    "jest": "^27.2.1",
-    "ts-jest": "^27.0.5",
-    "ts-node": "^10.2.1",
-    "typescript": "^4.4.3"
+    "axios": "^0.24.0",
+    "big.js": "^6.1.1",
+    "cross-fetch": "^3.1.4",
+    "dotenv": "^11.0.0",
+    "ethers": "^5.5.3",
+    "lodash": "^4.17.21",
+    "mathjs": "^10.1.0",
+    "ora": "^6.0.1",
+    "trading-view-recommends-parser-nodejs": "^1.0.2",
+    "tslib": "^2.3.1",
+    "web3": "^1.6.1"
   }
 }
