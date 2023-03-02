@@ -31,7 +31,7 @@ PRIVATE_KEY=0xa2hjtjnhjputdavmarh3uqmntxevx6j6faui8cuxcppyqmuekj54btyd
 ```
 3. Open the **bot.js** file and setup the following variables:
 ```
-BET_AMOUNT: 5, // Amount of each bet (In USD)
+BET_AMOUNT: 1, // Amount of each bet (In USD)
 DAILY_GOAL: 20, // Total profit you are aiming to earn (In USD)
 ```
 4. Start the bot using `npm start` or `yarn start`
