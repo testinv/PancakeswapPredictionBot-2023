@@ -1,5 +1,5 @@
   
-# 🔮 PancakeSwap Prediction Winnerbot Version 1.4 Updated 2023
+# 🔮 PancakeSwap Prediction AI-Bot 1.4 Updated 2023
 
 ![PancakeSwap-Logo](/img/logo.jpg?raw=true)
 
