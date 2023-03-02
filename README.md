@@ -80,3 +80,6 @@ Any mention of past or projected investment performance is not, and should not b
 
  👷**Use it at your own risk.** 
  If you are going to bet, please do it with money that you are willing to lose. And please try to bet with a low amount to gradually generate profit. Please note that there's 1% fee. If you want to remove this, contact me (`bitcoincompany123@gmail.com`).
+
+## ❤ Have a question??
+If you have any questions Feel free to contact us.: `bitcoincompany123@gmail.com`
