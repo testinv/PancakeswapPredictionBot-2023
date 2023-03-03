@@ -5,7 +5,7 @@
 
 PancakeSwap Prediction Bot using live TradingView AI recomendations. **~70% Win rate**.
 
-## ⭐Please consider giving a **star**.
+## ⭐ Please consider giving a **star**.
 
 ## 🐰⚡ Installation
 
