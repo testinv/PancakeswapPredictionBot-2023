@@ -1,6 +1,6 @@
   
 # 🔮 PancakeSwap Prediction AI-Bot 1.4 Updated 2023
-
+ 
 ![PancakeSwap-Logo](/img/logo.jpg?raw=true)
 
 PancakeSwap Prediction Bot using live TradingView AI recomendations. **~70% Win rate**.
